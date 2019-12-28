@@ -1,0 +1,11 @@
+{
+  "name": "Crew Name Diversity",
+  "version": "1.2",
+  "description": "This mod adds more than 1000 new names to random name generation.\r\n\r\nNOTE: It only affects the name generation for new crew members. It does not change the default crew of a new save or any existing sailors.",
+  "author": "Shubashi",
+  "minGameVersion": "B125",
+  "maxGameVersion": "B125",
+  "assemblyName": null,
+  "permissions": [],
+  "steamFileId": 1945302521
+}
