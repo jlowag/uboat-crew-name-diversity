@@ -1,0 +1,59 @@
+{
+    "level": 0,
+    "birthDate": "01/01/0001 00:00:00",
+    "experiencePoints": 0,
+    "experiencePointsFromLastPatrol": 0,
+    "characterType": 0,
+    "characterClass": "",
+    "status": 1,
+    "customPrefabPath": "",
+    "cap": "$(cap)",
+    "cloth": "$(shirt)",
+    "pants": "$(pants)",
+    "accessory1": "$(accessory1)",
+    "accessory2": "$(accessory2)",
+    "hairstyle": "$(hairstyle)",
+    "portraitTiming": 0.0,
+    "portraitSad": 0.0,
+    "portraitHappy": 0.0,
+    "portraitSmile": 0.0,
+    "hairColor": {
+        "r": $(haircolor_r),
+        "g": $(haircolor_g),
+        "b": $(haircolor_b),
+        "a": 1.0
+    },
+    "beard": "",
+    "voice": [
+        {
+            "Language": "English",
+            "VoiceName": "Scott"
+        },
+        {
+            "Language": "German",
+            "VoiceName": "6QSIOT4"
+        }
+    ],
+    "voicePitch": 1.0,
+    "complexion": "$(complexion)",
+    "eyeColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+    },
+    "tattoo": "",
+    "eyeType": "",
+    "noseType": "",
+    "mouthType": "",
+    "backgroundStory": {},
+    "minimumBeardSize": $(minimum_beard_size),
+    "modifiers": [
+        "$(face_type)"
+    ],
+    "bodyModifiers": [
+        "Character/Faces/$(face_type)"
+    ],
+    "fate": 0,
+    "role": ""
+}
