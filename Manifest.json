@@ -1,7 +1,7 @@
 {
   "name": "Crew Name Diversity",
   "version": "1.5",
-  "description": "This mod adds more than 1000 new first and last names for your crew to random name generation.\r\n\r\nNOTE: It only affects the random name generation for new crew members. It does not change the default crew of a new save game or any existing crew members.",
+  "description": "This mod adds more than 1000 new names to random name generation.\r\n\r\nNOTE: Already generated crew members in existing save games are not affected.",
   "author": "Shubashi",
   "minGameVersion": "B125",
   "maxGameVersion": "B125",
